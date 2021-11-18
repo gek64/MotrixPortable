@@ -1,5 +1,5 @@
 # MotrixPortable
-GitHub Desktop Portable is a portable version of the [Motrix](https://github.com/agalwood/Motrix).
+Motrix Portable is a portable version of the [Motrix](https://github.com/agalwood/Motrix).
 
 ## Download
 All downloads available in the [Releases](https://github.com/gek64/MotrixPortable/releases)
